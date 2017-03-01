@@ -7,4 +7,5 @@ package com.jsonzou.demo.activemq;
  * Created by v_zoupengfei on 2017/2/9.
  */
 public class ActivemqTest {
+
 }
